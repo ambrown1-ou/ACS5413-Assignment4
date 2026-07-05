@@ -8,6 +8,9 @@ node_modules/
 dist/
 web-build/
 expo-env.d.ts
+ 
+# Local Claude agent data
+.claude/
 
 # Native
 .kotlin/
@@ -41,3 +44,8 @@ app-example
 # generated native folders
 /ios
 /android
+
+.claude/
+.claude/*
+AGENTS.md
+CLAUDE.md
