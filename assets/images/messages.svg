@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Messages App Logo</title>
+  <desc id="desc">Clean, simple square mobile application icon in a cohesive minimal style.</desc>
+  <rect x="64" y="64" width="896" height="896" rx="224" fill="#F8FAFC"/>
+  <rect x="64" y="64" width="896" height="896" rx="224" fill="none" stroke="#E2E8F0" stroke-width="8"/>
+  <g stroke="#0F172A" fill="none" stroke-linecap="round" stroke-linejoin="round">
+
+  <path d="M248 312 C248 272 280 240 320 240 H704 C744 240 776 272 776 312 V566 C776 606 744 638 704 638 H474 L350 760 V638 H320 C280 638 248 606 248 566 Z" stroke-width="40"/>
+  <path d="M360 392 H664" stroke-width="34"/>
+  <path d="M360 486 H600" stroke-width="34"/>
+  <path d="M360 580 H520" stroke-width="34"/>
+
+  </g>
+</svg>

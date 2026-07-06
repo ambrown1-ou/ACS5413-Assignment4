@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Calls App Logo</title>
+  <desc id="desc">Clean, simple square mobile application icon in a cohesive minimal style.</desc>
+  <rect x="64" y="64" width="896" height="896" rx="224" fill="#F8FAFC"/>
+  <rect x="64" y="64" width="896" height="896" rx="224" fill="none" stroke="#E2E8F0" stroke-width="8"/>
+  <g stroke="#0F172A" fill="none" stroke-linecap="round" stroke-linejoin="round">
+
+  <path d="M372 282 C340 300 314 342 318 392 C330 520 504 694 632 706 C682 710 724 684 742 652 L664 560 C650 542 624 540 608 556 L560 604 C476 562 408 494 366 410 L414 362 C430 346 428 320 410 306 Z" stroke-width="40"/>
+  <path d="M596 318 C664 336 718 390 736 458" stroke-width="30"/>
+  <path d="M608 412 C638 424 662 448 674 478" stroke-width="30"/>
+
+  </g>
+</svg>

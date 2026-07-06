@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Music App Logo</title>
+  <desc id="desc">Clean, simple square mobile application icon in a cohesive minimal style.</desc>
+  <rect x="64" y="64" width="896" height="896" rx="224" fill="#F8FAFC"/>
+  <rect x="64" y="64" width="896" height="896" rx="224" fill="none" stroke="#E2E8F0" stroke-width="8"/>
+  <g stroke="#0F172A" fill="none" stroke-linecap="round" stroke-linejoin="round">
+
+  <path d="M430 702 C430 742 396 776 352 776 C308 776 274 748 274 710 C274 670 308 640 352 640 C389 640 418 658 430 680 Z" stroke-width="40"/>
+  <path d="M676 604 C676 644 642 678 598 678 C554 678 520 650 520 612 C520 572 554 542 598 542 C635 542 664 560 676 582 Z" stroke-width="40"/>
+  <path d="M430 704 V312 L676 270 V606" stroke-width="40"/>
+  <path d="M430 418 L676 376" stroke-width="34"/>
+
+  </g>
+</svg>
